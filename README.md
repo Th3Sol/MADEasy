@@ -1,5 +1,23 @@
 
 *Note: Just make sure the `package com.example.practicalX;` at the very top of the Java files matches your actual Android Studio project package name, otherwise Android Studio will throw an error.*
+# MAD Practicals
+
+## Quick Navigation
+
+* [4. TextView and EditText](#4-textview-and-edittext)
+* [5. Button, ImageButton and Toggle Button](#5-button-imagebutton-and-toggle-button)
+* [6. Checkbox and RadioButton](#6-checkbox-and-radiobutton)
+* [7. Progress Bar](#7-progress-bar)
+* [8. Login Form](#8-login-form)
+* [9. Registration Form with Custom Toast](#9-registration-form-with-custom-toast)
+* [12. Calculator](#12-calculator)
+* [13. Splash Screen](#13-splash-screen)
+* [14. Converter Application](#14-converter-application)
+* [15. Countdown Timer](#15-countdown-timer)
+* [16. Date Picker](#16-date-picker)
+* [17. Time Picker](#17-time-picker)
+
+---
 ---
 
 ### 4. TextView and EditText
