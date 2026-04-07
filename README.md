@@ -1,5 +1,5 @@
 *Note: Just make sure the `package com.example.practicalX;` at the very top of the Java files matches your actual Android Studio project package name, otherwise Android Studio will throw an error.*
-# MAD Practicals
+# MAD Practicals Easy
 
 ## Quick Navigation
 
