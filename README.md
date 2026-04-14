@@ -59,6 +59,9 @@ public class MainActivity extends AppCompatActivity {
         android:layout_height="wrap_content" android:textSize="18sp"/>
 </LinearLayout>
 ```
+**Output:**
+
+![Output](op/pr4.png)
 
 ---
 
@@ -107,6 +110,9 @@ public class MainActivity extends AppCompatActivity {
     <TextView android:id="@+id/tvStatus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Toggle is OFF"/>
 </LinearLayout>
 ```
+**Output:**
+
+![Output](op/pr5.png)
 
 ---
 
@@ -164,6 +170,9 @@ public class MainActivity extends AppCompatActivity {
     <TextView android:id="@+id/tvResult" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="18sp"/>
 </LinearLayout>
 ```
+**Output:**
+
+![Output](op/pr6.png)
 
 ---
 
@@ -208,6 +217,9 @@ public class MainActivity extends AppCompatActivity {
         android:layout_height="wrap_content" android:text="Start"/>
 </LinearLayout>
 ```
+**Output:**
+
+![Output](op/pr7.png)
 
 ---
 
@@ -249,6 +261,9 @@ public class MainActivity extends AppCompatActivity {
     <Button android:id="@+id/btnLogin" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Login"/>
 </LinearLayout>
 ```
+**Output:**
+
+![Output](op/pr8.png)
 
 ---
 
@@ -304,6 +319,9 @@ public class MainActivity extends AppCompatActivity {
     <Button android:id="@+id/btnRegister" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Register"/>
 </LinearLayout>
 ```
+**Output:**
+
+![Output](op/pr9.png)
 
 ---
 
@@ -351,6 +369,9 @@ public class MainActivity extends AppCompatActivity {
     <Button android:text="=" android:layout_columnSpan="4" android:layout_width="match_parent" android:onClick="equal"/>
 </GridLayout>
 ```
+**Output:**
+
+![Output](op/pr12.png)
 
 ---
 
@@ -394,6 +415,9 @@ public class MainActivity extends AppCompatActivity {
     <TextView android:id="@+id/main" android:layout_width="match_parent" android:layout_height="match_parent" android:gravity="center" android:text="Main Screen" android:visibility="gone"/>
 </FrameLayout>
 ```
+**Output:**
+
+![Output](op/pr13.png)
 
 ---
 
@@ -450,6 +474,9 @@ public class MainActivity extends AppCompatActivity {
     <TextView android:id="@+id/res" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="20sp"/>
 </LinearLayout>
 ```
+**Output:**
+
+![Output](op/pr14.png)
 
 ---
 
@@ -500,6 +527,9 @@ public class MainActivity extends AppCompatActivity {
     <Button android:id="@+id/btnStart" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Start Timer"/>
 </LinearLayout>
 ```
+**Output:**
+
+![Output](op/pr15.png)
 
 ---
 
@@ -541,6 +571,9 @@ public class MainActivity extends AppCompatActivity {
     <TextView android:id="@+id/tvDate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textSize="18sp"/>
 </LinearLayout>
 ```
+**Output:**
+
+![Output](op/pr16.png)
 
 ---
 
@@ -582,3 +615,6 @@ public class MainActivity extends AppCompatActivity {
     <TextView android:id="@+id/tvTime" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textSize="18sp"/>
 </LinearLayout>
 ```
+**Output:**
+
+![Output](op/pr17.png)
